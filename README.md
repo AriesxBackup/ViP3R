@@ -7,7 +7,7 @@ Project Made With [Supportive Purpose] Collaboration With @TeamAvenger For Publi
 *[?] How To Use :*
 1. While Using It For First Time Use `cd ViP3R && chmod +x * && bash Setup.sh && bash FixCrash.sh && sudo python3 ViP3R.py` .
 2. After Using The Project Once From Next Time Just Use `cd ViP3R && sudo python3 ViP3R.py` .
->> Use Numbers 1-5 To Select Between Different Option When Asked For An Input Simple Use Numbers To Navigate.
+> Use Numbers 1-5 To Select Between Different Option When Asked For An Input Simple Use Numbers To Navigate. <
 
 My Channel : https://t.me/T34M3RR0Rz And https://t.me/AstraPY
 
