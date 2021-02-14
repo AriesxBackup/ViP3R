@@ -4,7 +4,10 @@
 Terminal Based Py Injector That Uses C++ For Rutime Code Patching Of [PUBG Mobile] libUe4 On Android To Inject Custom Values.
 Project Made With [Supportive Purpose] Collaboration With @TeamAvenger For Public Use Only And is Not Meant To Be Sold.
 
+To Clone The Repository To Your Machine Simply Use `git clone https://github.com/1337Xcode/ViP3R`
+
 *[?] How To Use :*
+
 1. While Using It For First Time Use `cd ViP3R && chmod +x * && bash Setup.sh && bash FixCrash.sh && sudo python3 ViP3R.py` .
 2. After Using The Project Once From Next Time Just Use `cd ViP3R && sudo python3 ViP3R.py` .
 > Use Numbers 1-5 To Select Between Different Option When Asked For An Input Simple Use Numbers To Navigate. 
